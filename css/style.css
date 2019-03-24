@@ -204,13 +204,13 @@ body {
 }
 
 #history {
-	background-image: url(https://image.flaticon.com/icons/svg/859/859170.svg);
+	background-image: url(../img/history.svg);
 }
 #beaches {
-	background-image: url(https://image.flaticon.com/icons/svg/452/452892.svg);
+	background-image: url(../img/beaches.svg);
 }
 #food {
-	background-image: url(https://image.flaticon.com/icons/svg/325/325562.svg);
+	background-image: url(../img/food.svg);
 }
 
 #trailer {
@@ -251,30 +251,22 @@ body {
 
 #pt-continental {
 	background-image: url(../img/flag-pt.jpg);
-	background-position-x: -25px;
 }
 #pt-madeira {
 	background-image: url(../img/flag-madeira.jpg);
-	background-position: center;
 }
 #pt-azores {
 	background-image: url(../img/flag-azores.jpg);
-	background-position-x: -27px;
 }
 
 #pt-continental:hover {
 	background-image: url(../img/hover-pt.jpg);
-	background-position-x: -45px;
 }
 #pt-madeira:hover {
 	background-image: url(../img/hover-madeira.jpg);
-	background-position-x: -68px;
 }
 #pt-azores:hover {
 	background-image: url(../img/hover-azores.jpg);
-	background-position-x: -45px;
-	background-position-y: -10px;
-	background-size: auto 120%;
 }
 
 #visit {
@@ -351,7 +343,6 @@ body {
 
 #lisbon {
 	background-image: url(../img/lisbon.jpg);
-	background-size: 115% auto;
 }
 #aveiro {
 	background-image: url(../img/aveiro.jpg);
@@ -364,14 +355,12 @@ body {
 }
 #braga {
 	background-image: url(../img/braga.jpg);
-	background-size: auto 100%;
 }
 #sao-miguel {
 	background-image: url(../img/sao-miguel.jpg);
 }
 #funchal {
 	background-image: url(../img/funchal.jpg);
-	background-size: auto 100%;
 }
 #azenhas-do-mar {
 	background-image: url(../img/azenhas-do-mar.jpg);
